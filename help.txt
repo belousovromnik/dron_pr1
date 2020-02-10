@@ -1,0 +1,4 @@
+
+создание проекта
+django-admin startproject samplesite
+
